@@ -4,9 +4,9 @@ We welcome contributions from everyone! This document provides some guidelines f
 
 ## Getting Started
 
-- Fork the repository on GitHub.
-- Clone your fork locally: `git clone https://github.com/your-username/[Your-Project].git`.
-- Configure the upstream repository: `git remote add upstream https://github.com/original-repo/[Your-Project].git`.
+- Fork the repository on GitHub by clicking the 'Fork' button on the top right of the original repository page.
+- Clone your fork locally: `git clone https://github.com/your-username/your-forked-repo.git`.
+- Configure the upstream repository: `git remote add upstream https://github.com/original-owner/original-repo.git`.
 - Create a new branch for your contribution: `git checkout -b contribution-branch`.
   
 ## Making Changes
